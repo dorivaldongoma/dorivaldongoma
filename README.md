@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/dorivaldongoma">
-  <img widht="35%" height="180em" src="https://github-readme-stats.vercel.app/api?username=dorivaldongoma&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img widht="65%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorivaldongoma&layout=compact&langs_count=7&theme=dark"/>
+  <img widht="100em" height="180em" src="https://github-readme-stats.vercel.app/api?username=dorivaldongoma&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img widht="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorivaldongoma&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dori-Ts" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
