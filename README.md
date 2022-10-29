@@ -12,7 +12,7 @@
   <img align="center" alt="Dori-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dori-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dori-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Dori-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/682740163008266256/1035674841157750866/waving-287_128.gif">
+  <img align="right" alt="Dori-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/682740163008266256/1035674841157750866/waving-287_128.gif">
 </div><br />
 
 
