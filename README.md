@@ -41,5 +41,4 @@
 ![Snake animation](https://github.com/dorivaldongoma/dorivaldongoma/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer"/>
