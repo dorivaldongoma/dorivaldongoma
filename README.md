@@ -30,13 +30,13 @@
  
 <div>
   <a href="https://instagram.com/dorivaldongoma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://facebook.com/dorivaldongoma" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <!--<a href="https://facebook.com/dorivaldongoma" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> -->
   <a href = "mailto:dorivaldongoma@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dorivaldongoma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <div align="center">
 <!--<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dorivaldongoma}/count.svg" /></p> -->
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dorivaldongoma}/count.svg" /></p> 
   
 ![Snake animation](https://github.com/dorivaldongoma/dorivaldongoma/blob/output/github-contribution-grid-snake.svg)
   
