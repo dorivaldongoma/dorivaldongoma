@@ -3,7 +3,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dorivaldongoma&show_icons=true&count_private=true&hide_border=true&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&bg_color=0d1117" alt="Dorivaldo Ngoma github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorivaldongoma&layout=compact&hide_border=true&title_color=1e90ff&text_color=1e90ff&bg_color=0d1117" />
+  <img width="41%" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorivaldongoma&layout=compact&hide_border=true&title_color=1e90ff&text_color=1e90ff&bg_color=0d1117" />
 </div>
   
 ### Principais habilidades:
